@@ -63,7 +63,6 @@ var switchMenuToActive = function () {
 // On page load (before images or CSS)
 document.addEventListener("DOMContentLoaded", function (event) {
 
-
 // TODO: STEP 0: Look over the code from
 // *** start ***
 // to
@@ -345,4 +344,3 @@ function insertItemPortionName(html,
 
 global.$dc = dc;
 
-})(window);
